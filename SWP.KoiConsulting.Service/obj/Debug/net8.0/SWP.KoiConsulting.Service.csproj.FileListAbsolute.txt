@@ -15,3 +15,4 @@ C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulti
 C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\ref\SWP.KoiConsulting.Service.dll
 C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\bin\Debug\net8.0\SWP.KoiConsulting.Repository.dll
 C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\bin\Debug\net8.0\SWP.KoiConsulting.Repository.pdb
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.sourcelink.json

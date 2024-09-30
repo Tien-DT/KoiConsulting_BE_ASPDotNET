@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SWP.KoiConsulting.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80b19d790eddf50e7994feacbaafe3a908a0839e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SWP.KoiConsulting.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SWP.KoiConsulting.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

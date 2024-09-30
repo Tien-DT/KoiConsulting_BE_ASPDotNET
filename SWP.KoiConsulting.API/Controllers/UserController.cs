@@ -62,7 +62,7 @@ namespace SWP.KoiConsulting.API.Controllers
         public async Task<ActionResult<IEnumerable<UserResponseModel>>> GetUsers()
         {
             var users = await _userService.GetUsersAsync();
-            var respone = users.Select(user => new UserResponseModel
+            var response = users.Select(user => new UserResponseModel
             {
                 Id = user.Id,
                 FullName = user.FullName,
@@ -75,7 +75,7 @@ namespace SWP.KoiConsulting.API.Controllers
                 Role = user.Role
             });
 
-            return Ok(respone);
+            return Ok(response);
         }
 
         [HttpGet]
@@ -85,7 +85,7 @@ namespace SWP.KoiConsulting.API.Controllers
             var user = await _userService.GetUserByIdAsync(id);
             if(user == null) return NotFound();
 
-            var respone = new UserResponseModel
+            var response = new UserResponseModel
             {
                 Id = user.Id,
                 FullName = user.FullName,
@@ -98,7 +98,7 @@ namespace SWP.KoiConsulting.API.Controllers
                 Role = user.Role
             };
 
-            return Ok(respone); 
+            return Ok(response); 
         }
         
         [HttpPut]
