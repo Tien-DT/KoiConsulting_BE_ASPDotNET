@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\bin\Debug\net8.0\SWP.KoiConsulting.Service.deps.json
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\bin\Debug\net8.0\SWP.KoiConsulting.Service.runtimeconfig.json
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\bin\Debug\net8.0\SWP.KoiConsulting.Service.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\bin\Debug\net8.0\SWP.KoiConsulting.Service.pdb
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiC.D80621E1.Up2Date
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\refint\SWP.KoiConsulting.Service.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.pdb
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\SWP.KoiConsulting.Service.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\obj\Debug\net8.0\ref\SWP.KoiConsulting.Service.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\bin\Debug\net8.0\SWP.KoiConsulting.Repository.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Service\bin\Debug\net8.0\SWP.KoiConsulting.Repository.pdb

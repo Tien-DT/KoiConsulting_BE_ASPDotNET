@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SWP.KoiConsulting.API.props" />
+</Project>

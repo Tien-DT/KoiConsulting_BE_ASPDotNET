@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\bin\Debug\net8.0\SWP.KoiConsulting.Repository.deps.json
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\bin\Debug\net8.0\SWP.KoiConsulting.Repository.runtimeconfig.json
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\bin\Debug\net8.0\SWP.KoiConsulting.Repository.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\bin\Debug\net8.0\SWP.KoiConsulting.Repository.pdb
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\SWP.KoiConsulting.Repository.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\SWP.KoiConsulting.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\SWP.KoiConsulting.Repository.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\SWP.KoiConsulting.Repository.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\SWP.KoiConsulting.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\SWP.KoiConsulting.Repository.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\refint\SWP.KoiConsulting.Repository.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\SWP.KoiConsulting.Repository.pdb
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\SWP.KoiConsulting.Repository.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.Repository\obj\Debug\net8.0\ref\SWP.KoiConsulting.Repository.dll
