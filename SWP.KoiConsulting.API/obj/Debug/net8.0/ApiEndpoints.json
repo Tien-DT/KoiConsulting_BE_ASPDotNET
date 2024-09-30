@@ -2,7 +2,7 @@
   {
     "ContainingType": "SWP.KoiConsulting.API.Controllers.UserController",
     "Method": "DeleteUser",
-    "RelativePath": "api/Delete User",
+    "RelativePath": "api/DeleteUser",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -50,7 +50,7 @@
   {
     "ContainingType": "SWP.KoiConsulting.API.Controllers.UserController",
     "Method": "UpdateUser",
-    "RelativePath": "api/Update User",
+    "RelativePath": "api/UpdateUser",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,

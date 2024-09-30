@@ -255,3 +255,4 @@ C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulti
 C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.API\bin\Debug\net8.0\SWP.KoiConsulting.Service.pdb
 C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.API\bin\Debug\net8.0\SWP.KoiConsulting.Repository.pdb
 C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ADMIN\Desktop\SWP391KoiConsulting\SWP.KoiConsulting.API\SWP.KoiConsulting.API\obj\Debug\net8.0\SWP.KoiConsulting.API.sourcelink.json

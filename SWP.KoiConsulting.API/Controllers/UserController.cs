@@ -102,7 +102,7 @@ namespace SWP.KoiConsulting.API.Controllers
         }
         
         [HttpPut]
-        [Route("Update User")]
+        [Route("UpdateUser")]
         public async Task<IActionResult> UpdateUser(int id,  UserRequestModel request)
         {
             var userModel = new UserModel
@@ -122,7 +122,7 @@ namespace SWP.KoiConsulting.API.Controllers
         }
 
         [HttpDelete]
-        [Route("Delete User")]
+        [Route("DeleteUser")]
         public async Task<IActionResult> DeleteUser(int id)
         {
             var success = await _userService.DeleteUserAsync(id);
